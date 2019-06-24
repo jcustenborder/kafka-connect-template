@@ -1,2 +1,6 @@
-# kafka-connect-template
-Github template repository for a Kafka Connect Plugin
+# Introduction
+
+This is a template repository for creating Kafka Connect Plugins. 
+
+
+
